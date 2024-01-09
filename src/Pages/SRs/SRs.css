@@ -1,0 +1,405 @@
+* {
+  margin: 0;color: black;
+  padding: 0;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 200vh;
+  background-color: #f0f0f0;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+.SRs-section {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.srSection-title {
+  color: #111;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 550;
+}
+
+.dark-mode:is(.dark-mode) .srSection-title {
+  color: white;
+} 
+.sr-Container {
+  min-width: 30rem;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.dropdown {
+  margin: 4px;
+}
+
+.Search-container {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  width: 650px;
+}
+
+/* Dark Mode Switch */
+
+/* The switch - the box around the slider */
+#theme-toggle-button {
+  font-size: 17px;
+  position: relative;
+  display: inline-block;
+  width: 5em;
+  cursor: pointer;
+}
+
+/* Hide default HTML checkbox */
+#toggle {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+#container,
+#patches,
+#stars,
+#button,
+#sun,
+#moon,
+#cloud {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 0.25s;
+}
+
+/* night sky background */
+#toggle:checked + svg #container {
+  fill: #2b4360;
+}
+
+/* move button to right when checked */
+#toggle:checked + svg #button {
+  transform: translate(28px, 2.333px);
+}
+
+/* show/hide sun and moon based on checkbox state */
+#sun {
+  opacity: 1;
+}
+
+#toggle:checked + svg #sun {
+  opacity: 0;
+}
+
+#moon {
+  opacity: 0;
+}
+
+#toggle:checked + svg #moon {
+  opacity: 1;
+}
+
+/* show or hide background items on checkbox state */
+#cloud {
+  opacity: 1;
+}
+
+#toggle:checked + svg #cloud {
+  opacity: 0;
+}
+
+#stars {
+  opacity: 0;
+}
+
+#toggle:checked + svg #stars {
+  opacity: 1;
+}
+
+
+.stopwatch {
+
+	background-color: #ffffff;
+
+	padding: 20px;
+
+	border-radius: 10px;
+
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+
+.time {
+
+	font-size: 40px;
+
+	text-align: center;
+
+	margin-bottom: 20px;
+
+}
+
+
+#deciseconds {
+
+	font-size: 20px;
+
+}
+
+
+.stopwatch-buttons {
+
+	display: flex;
+
+	justify-content: space-around;
+
+	width: 100%;
+
+}
+
+
+button {
+
+
+	border: none;
+
+	color: white;
+
+	padding: 10px 20px;
+
+	text-align: center;
+
+	text-decoration: none;
+
+	display: inline-block;
+
+	font-size: 16px;
+
+	margin: 4px 2px;
+
+	cursor: pointer;
+
+	border-radius: 4px;
+
+}
+
+
+
+
+#top-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+#top-button:hover {
+  opacity: 1;
+}
+
+
+
+#darkmode-toggle {
+
+  display: none;
+
+}
+
+
+.switch {
+
+  position: relative;
+
+  display: inline-block;
+
+  width: 60px;
+
+  height: 34px;
+
+}
+
+
+.slider {
+
+  position: absolute;
+
+  cursor: pointer;
+
+  top: 0;
+
+  left: 0;
+
+  right: 0;
+
+  bottom: 0;
+
+  background-color: #ccc;
+
+  -webkit-transition: .4s;
+
+  transition: .4s;
+
+}
+
+
+.slider:before {
+
+  position: absolute;
+
+  content: "";
+
+  height: 26px;
+
+  width: 26px;
+
+  left: 4px;
+
+  bottom: 4px;
+
+  background-color: white;
+
+  -webkit-transition: .4s;
+
+  transition: .4s;
+
+}
+
+
+input:checked + .slider {
+
+  background-color: #333;
+
+}
+
+
+input:focus + .slider {
+
+  box-shadow: 0 0 1px #feffff;
+
+}
+
+
+input:checked + .slider:before {
+
+  -webkit-transform: translateX(26px);
+
+  -ms-transform: translateX(26px);
+
+  transform: translateX(26px);
+
+}
+
+
+/* Dark mode styles */
+
+body.dark-mode {
+
+  background-color: black;
+
+  color: white;
+
+}
+
+.toTopImage {
+  width: 2.1rem;
+}
+
+/* change page background */
+#changeBackgroundButton{
+  width: 13.6rem;
+}
+
+
+/* Buttons */
+
+.btns {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background-color: #615a4d;
+  padding: 1em 2em;
+  border: none;
+  border-radius: .6rem;
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+  margin: 10px;
+}
+.btns .text {
+  color: #ccc;
+}
+.btns span:not(:nth-child(6)) {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  height: 30px;
+  width: 30px;
+  background-color: #1111;
+  border-radius: 50%;
+  transition: .6s ease;
+}
+
+.btns span:nth-child(6) {
+  position: relative;
+}
+
+.btns span:nth-child(1) {
+  transform: translate(-3.3em, -4em);
+}
+
+.btns span:nth-child(2) {
+  transform: translate(-6em, 1.3em);
+}
+
+.btns span:nth-child(3) {
+  transform: translate(-.2em, 1.8em);
+}
+
+.btns span:nth-child(4) {
+  transform: translate(3.5em, 1.4em);
+}
+
+.btns span:nth-child(5) {
+  transform: translate(3.5em, -3.8em);
+}
+
+.btns:hover span:not(:nth-child(6)) {
+  transform: translate(-50%, -50%) scale(4);
+  transition: 1.5s ease;
+}
+  
+
+
+/* end button CSS
+ */
+.Input-text , .Result-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.upper-Result {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dropdown-item {
+  background-color: #fff !important;
+}

@@ -1,0 +1,46 @@
+.siteRequiredCards {
+  width: 1200px;
+  margin-top: 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+
+.card {
+  width: 300px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.card:hover {
+  cursor: pointer;
+}
+
+.card-img-top {
+  width: 200px !important;
+}
+
+.card-text {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 16px;
+}
+
+.card-text {
+  text-decoration: none;
+  font-family: DM Sans;
+  font-weight: Bold;
+  line-height: 26px;
+  color: #111;
+}
+
+.card img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
