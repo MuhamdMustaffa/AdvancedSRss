@@ -275,7 +275,7 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Other&srTypeId=102034019&t=1588106317422&tabId=sr0.8474567916644128&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Other&serviceInfoChar282=Other&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Ticket%20closed%20with%20close%20code%20xxxx"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102034059&t=1701905385644&tabId=sr0.7426013132474699&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
                   >
                     <b>External problem- cable maintenance needed</b>
                   </NavLink>
@@ -477,7 +477,7 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Other&srTypeId=102006018&t=1588105970667&tabId=sr0.9503158016442094&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Other&serviceInfoChar282=Other&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Ticket%20closed%20with%20close%20code%20xxxx"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102006056&t=1701905571375&tabId=sr0.846930611500098&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
                   >
                     <b>External problem- cable maintenance needed</b>
                   </NavLink>
@@ -671,7 +671,7 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Other&srTypeId=102005007&t=1588105970620&tabId=sr0.8321069838970411&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Other&serviceInfoChar282=Other&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Ticket%20closed%20with%20close%20code%20xxxx"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102005052&t=1701905571345&tabId=sr0.5832419214166648&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
                   >
                     <b>External problem- cable maintenance needed</b>
                   </NavLink>
@@ -943,7 +943,7 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Other&srTypeId=102014018&t=1588105970937&tabId=sr0.22862598934686196&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Other&serviceInfoChar282=Other&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Ticket%20closed%20with%20close%20code%20xxxx"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102014058&t=1701905571397&tabId=sr0.10284699954059806&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
                   >
                     <b>External problem- cable maintenance needed</b>
                   </NavLink>
