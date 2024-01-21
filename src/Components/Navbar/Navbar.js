@@ -42,17 +42,17 @@ const Navbar = () => {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/Tools">
+                <NavLink className="nav-link active" to="/Tools">
                   Tools
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/Notes">
+                <NavLink className="nav-link active" to="/Notes">
                   Notes
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/CPEs">
+                <NavLink className="nav-link active" to="/CPEs">
                   CPEs
                 </NavLink>
               </li>
