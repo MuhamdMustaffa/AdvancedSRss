@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AdvancedSRss/static/css/main.1d53e5a1.css",
-    "main.js": "/AdvancedSRss/static/js/main.7a27c234.js",
+    "main.js": "/AdvancedSRss/static/js/main.1e364606.js",
     "static/media/Homepage-Banner---1700-x-651---EN-min.png": "/AdvancedSRss/static/media/Homepage-Banner---1700-x-651---EN-min.c7b0488f3469a837b1f4.png",
     "static/media/Home-Banner_1700-x-651-min+(1).jpg": "/AdvancedSRss/static/media/Home-Banner_1700-x-651-min+(1).e99ea49f5ec9db7d3ad4.jpg",
     "static/media/Home+Banner-En-min.jpeg": "/AdvancedSRss/static/media/Home+Banner-En-min.a23fd2a57b743b89e3e8.jpeg",
@@ -16,10 +16,10 @@
     "static/media/ZTE-ZXHN-H168N.jpg": "/AdvancedSRss/static/media/ZTE-ZXHN-H168N.97a41fa34718be2a7e41.jpg",
     "index.html": "/AdvancedSRss/index.html",
     "main.1d53e5a1.css.map": "/AdvancedSRss/static/css/main.1d53e5a1.css.map",
-    "main.7a27c234.js.map": "/AdvancedSRss/static/js/main.7a27c234.js.map"
+    "main.1e364606.js.map": "/AdvancedSRss/static/js/main.1e364606.js.map"
   },
   "entrypoints": [
     "static/css/main.1d53e5a1.css",
-    "static/js/main.7a27c234.js"
+    "static/js/main.1e364606.js"
   ]
 }
