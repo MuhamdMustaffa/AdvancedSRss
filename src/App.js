@@ -1,5 +1,5 @@
 import './App.css';
-import React, { useContext } from 'react';
+import React, { useContext} from 'react';
 import { ThemeContext } from './Components/darkModeToggle/ThemeContext';
 import Navbar from './Components/Navbar/Navbar';
 import 'bootstrap/dist/js/bootstrap.min.js';
@@ -9,6 +9,7 @@ import Home from './Pages/Home/Home';
 import Tools from './Pages/Tools/Tools';
 import SRs from './Pages/SRs/SRs';
 import Notes from './Pages/Notes/Notes';
+import CPEs from './Pages/CPEs/CPEs';
 
 function App() {
   const { darkMode } = useContext(ThemeContext);
@@ -19,7 +20,8 @@ function App() {
     } else {
       document.body.classList.remove('dark-mode');
     }
- }, [darkMode]);
+}, [darkMode]);
+
 
   return (
     
@@ -31,7 +33,7 @@ function App() {
           <Route exact path="/SRs" element={<SRs />} />
           <Route exact path="/Notes" element={<Notes />} />
           <Route exact path="/Tools" element={<Tools />} />
-
+          <Route exact path="/CPEs" element={<CPEs />} />
         </Routes>
       </div>
     </Router>
