@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/AdvancedSRss/static/css/main.e5bd6c92.css",
-    "main.js": "/AdvancedSRss/static/js/main.7af5a589.js",
+    "main.css": "/AdvancedSRss/static/css/main.1d53e5a1.css",
+    "main.js": "/AdvancedSRss/static/js/main.2e03d6a1.js",
     "static/media/Homepage-Banner---1700-x-651---EN-min.png": "/AdvancedSRss/static/media/Homepage-Banner---1700-x-651---EN-min.c7b0488f3469a837b1f4.png",
     "static/media/Home-Banner_1700-x-651-min+(1).jpg": "/AdvancedSRss/static/media/Home-Banner_1700-x-651-min+(1).e99ea49f5ec9db7d3ad4.jpg",
     "static/media/Home+Banner-En-min.jpeg": "/AdvancedSRss/static/media/Home+Banner-En-min.a23fd2a57b743b89e3e8.jpeg",
     "static/media/We_logo.svg.png": "/AdvancedSRss/static/media/We_logo.svg.2c52ceea80e6022ed4a9.png",
+    "static/media/DN8245V.png": "/AdvancedSRss/static/media/DN8245V.659158aefa7593ce4ad8.png",
+    "static/media/ZXHN-H188A.jpg": "/AdvancedSRss/static/media/ZXHN-H188A.9ceae772e6bf3695281b.jpg",
+    "static/media/DG8045.jpg": "/AdvancedSRss/static/media/DG8045.218d6b9edcba27444e4c.jpg",
+    "static/media/HG531.png": "/AdvancedSRss/static/media/HG531.29793fdc6caf057d6e9e.png",
+    "static/media/VR600.jpg": "/AdvancedSRss/static/media/VR600.314be068d02f3312f38b.jpg",
+    "static/media/Vn020.jpg": "/AdvancedSRss/static/media/Vn020.5dab32112042b61c78d1.jpg",
+    "static/media/VMG3625-T50B.jpg": "/AdvancedSRss/static/media/VMG3625-T50B.4ab0d1330fe2c597ff3b.jpg",
+    "static/media/ZTE-ZXHN-H168N.jpg": "/AdvancedSRss/static/media/ZTE-ZXHN-H168N.97a41fa34718be2a7e41.jpg",
     "index.html": "/AdvancedSRss/index.html",
-    "main.e5bd6c92.css.map": "/AdvancedSRss/static/css/main.e5bd6c92.css.map",
-    "main.7af5a589.js.map": "/AdvancedSRss/static/js/main.7af5a589.js.map"
+    "main.1d53e5a1.css.map": "/AdvancedSRss/static/css/main.1d53e5a1.css.map",
+    "main.2e03d6a1.js.map": "/AdvancedSRss/static/js/main.2e03d6a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5bd6c92.css",
-    "static/js/main.7af5a589.js"
+    "static/css/main.1d53e5a1.css",
+    "static/js/main.2e03d6a1.js"
   ]
 }
