@@ -1064,7 +1064,7 @@ const SRs = () => {
                 <li>
                   <NavLink
                     className="dropdown-item"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=MV-Internal%20Wiring&srTypeId=102040009&t=1704623368712&tabId=sr0.9943099659288757&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB8&BMEWebToken=&serviceTitle=MV-Internal%20Wiring&serviceInfoChar282=MV-Internal%20Wiring&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent= "
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Internal%20Wiring&srTypeId=102040013&t=1585339021275&tabId=sr0.8705499160584942&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Internal%20Wiring&serviceInfoChar282=Internal%20Wiring&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=problem%20is%20%E2%80%8Bsolved%20after%20internal%20wiring%20  "
                     target="_blank"
                   >
                     <b>Problem solved after internal wiring</b>
