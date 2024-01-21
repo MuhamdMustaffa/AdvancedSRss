@@ -994,6 +994,15 @@ const SRs = () => {
                     <b>Other</b>
                   </NavLink>
                 </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=IU-Resplitted&srTypeId=102014066&t=1705841027035&tabId=sr0.8882407439659701&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=IU-Resplitted&serviceInfoChar282=IU-Resplitted&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent= "
+                  >
+                    <b>IU-Resplitted</b>
+                  </NavLink>
+                </li>
               </ul>
             </div>
 
