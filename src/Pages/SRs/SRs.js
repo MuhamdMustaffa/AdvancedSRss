@@ -1091,6 +1091,15 @@ const SRs = () => {
                 <li>
                   <NavLink
                     className="dropdown-item"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102040065&t=1699275743168&tabId=sr0.8657979965006013&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20by%20fix%20External%20wire"
+                    target="_blank"
+                  >
+                    <b>External problem- cable maintenance needed</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
                     to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Installation%20Issue&srTypeId=102040066&t=1699275949332&tabId=sr0.37056070623995696&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Installation%20Issue&serviceInfoChar282=Installation%20Issue&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Installation%20Issue"
                     target="_blank"
                   >
