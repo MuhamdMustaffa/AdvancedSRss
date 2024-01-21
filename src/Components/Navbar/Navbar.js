@@ -56,6 +56,11 @@ const Navbar = () => {
                   CPEs
                 </NavLink>
               </li>
+              <li className="nav-item">
+                <NavLink className="nav-link disabled" to="/CPEs">
+                  Coming Soon...
+                </NavLink>
+              </li>
             </ul>
             
           </div>
