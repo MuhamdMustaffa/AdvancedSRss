@@ -57,7 +57,7 @@ const Navbar = () => {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link disabled" to="/CPEs">
+                <NavLink className="nav-link" to="/Compensation">
                   Coming Soon...
                 </NavLink>
               </li>

@@ -10,6 +10,7 @@ import Tools from './Pages/Tools/Tools';
 import SRs from './Pages/SRs/SRs';
 import Notes from './Pages/Notes/Notes';
 import CPEs from './Pages/CPEs/CPEs';
+import Compensation from './Pages/Compensation/Compensation';
 
 function App() {
   const { darkMode } = useContext(ThemeContext);
@@ -34,6 +35,7 @@ function App() {
           <Route exact path="/Notes" element={<Notes />} />
           <Route exact path="/Tools" element={<Tools />} />
           <Route exact path="/CPEs" element={<CPEs />} />
+          <Route exact path="/Compensation" element={<Compensation />} />
         </Routes>
       </div>
     </Router>

@@ -185,6 +185,24 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=cabin%20problem&srTypeId=102034056&t=1699266625219&tabId=sr0.04823613559328188&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Cabin%20Problem&serviceInfoChar282=Cabin%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Cabin%20"
+                  >
+                    <b>Problem solved after Fixed from cabin side</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Box%20Problem&srTypeId=102034051&t=1698256028916&tabId=sr0.26096909981890404&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Box%20Problem&serviceInfoChar282=Box%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Box"
+                  >
+                    <b>Problem solved after Fixed from Box side</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
                     to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Solved%20By%20Exchange&srTypeId=102034007&t=1585337348174&tabId=sr0.3600771887938873&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Solved%20By%20Exchange&serviceInfoChar282=Solved%20By%20Exchange&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20By%20Exchange%20."
                   >
                     <b>Problem solved after Fixed from exchange</b>
@@ -212,54 +230,9 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=cabin%20problem&srTypeId=102034056&t=1699266625219&tabId=sr0.04823613559328188&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Cabin%20Problem&serviceInfoChar282=Cabin%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Cabin%20"
-                  >
-                    <b>Problem solved after Fixed from cabin side</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Box%20Problem&srTypeId=102034051&t=1698256028916&tabId=sr0.26096909981890404&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Box%20Problem&serviceInfoChar282=Box%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Box"
-                  >
-                    <b>Problem solved after Fixed from Box side</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
                     to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102034059&t=1701905385644&tabId=sr0.7426013132474699&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
                   >
                     <b>Problem solved after fix external wire</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Line%20stable%20/no%20problem%20found&srTypeId=102034061&t=1699267476373&tabId=sr0.4948995486553134&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Line%20stable%20-no%20problem%20found&serviceInfoChar282=Line%20stable%20-no%20problem%20found&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Line%20stable%20-no%20problem%20found"
-                  >
-                    <b>Line stable /no problem found</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Power%20Failure-Direct%20CST%20to%20CSO&srTypeId=102034045&t=1702686253202&tabId=sr0.03501928957673639&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Power%20Failure-Direct%20CST%20to%20CSO&serviceInfoChar282=Power%20Failure-Direct%20CST%20to%20CSO&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
-                  >
-                    <b>Power Failure-Direct CST to CSO</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Power%20Failure&srTypeId=102034008&t=1702686253141&tabId=sr0.19622519421397344&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Power%20Failure&serviceInfoChar282=Power%20Failure&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
-                  >
-                    <b>Power Failure</b>
                   </NavLink>
                 </li>
                 <li>
@@ -284,9 +257,36 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Line%20stable%20/no%20problem%20found&srTypeId=102034061&t=1699267476373&tabId=sr0.4948995486553134&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Line%20stable%20-no%20problem%20found&serviceInfoChar282=Line%20stable%20-no%20problem%20found&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Line%20stable%20-no%20problem%20found"
+                  >
+                    <b>Line stable /no problem found</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
                     to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=CPE%20Problem&srTypeId=102034016&t=1585337348660&tabId=sr0.7748813165547658&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=CPE%20Problem&serviceInfoChar282=CPE%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=CPE%20Problem"
                   >
                     <b>CPE customer problem</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Power%20Failure-Direct%20CST%20to%20CSO&srTypeId=102034045&t=1702686253202&tabId=sr0.03501928957673639&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Power%20Failure-Direct%20CST%20to%20CSO&serviceInfoChar282=Power%20Failure-Direct%20CST%20to%20CSO&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
+                  >
+                    <b>Power Failure-Direct CST to CSO</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Power%20Failure&srTypeId=102034008&t=1702686253141&tabId=sr0.19622519421397344&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Power%20Failure&serviceInfoChar282=Power%20Failure&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
+                  >
+                    <b>Power Failure</b>
                   </NavLink>
                 </li>
                 <li>
@@ -369,11 +369,21 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=MV-Internal%20Wiring&srTypeId=102006016&t=1700512646338&tabId=sr0.8053118438666289&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=MV-Internal%20Wiring&serviceInfoChar282=MV-Internal%20Wiring&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Chat-ADSL%20Follow%20up%20chat%20agent,Regarding%20ticket%20number%20.......,Problem%20solved%20after%20mv-internal%20wiring"
+                  >
+                    <b>Problem solved after mv-internal wiring</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
                     to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Internal%20Wiring&srTypeId=102006010&t=1700512135570&tabId=sr0.26974388726581977&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Internal%20Wiring&serviceInfoChar282=Internal%20Wiring&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Chat-Adsl%20Follow%20up%20Chat%20Agent,Regarding%20Ticket%20number%20.....,Problem%20Solved%20after%20fix%20internal%20wiring"
                   >
                     <b>Problem solved after fix internal wiring</b>
                   </NavLink>
                 </li>
+
                 <li>
                   <NavLink
                     className="dropdown-item"
@@ -381,15 +391,6 @@ const SRs = () => {
                     to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=change%20internal&srTypeId=102006055&t=1699274782550&tabId=sr0.6467049717880442&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Change%20Internal&serviceInfoChar282=Change%20Internal&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20by%20Change%20Internal"
                   >
                     <b>Problem solved after change internal</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Box%20Problem&srTypeId=102006048&t=1698256028968&tabId=sr0.866647724232749&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Box%20Problem&serviceInfoChar282=Box%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Box"
-                  >
-                    <b>Problem solved after Fixed from Box side</b>
                   </NavLink>
                 </li>
                 <li>
@@ -405,20 +406,30 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Solved%20By%20Exchange&srTypeId=102006006&t=1585337347080&tabId=sr0.9199307849925996&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Solved%20By%20Exchange&serviceInfoChar282=Solved%20By%20Exchange&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20By%20Exchange%20."
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=cabin%20problem&srTypeId=102006053&t=1699275328330&tabId=sr0.3233332708718408&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Cabin%20Problem&serviceInfoChar282=Cabin%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Cabin%20"
                   >
-                    <b>Problem solved after Fixed from exchange</b>
+                    <b>Problem solved after Fixed from cabin side</b>
                   </NavLink>
                 </li>
                 <li>
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=MV-Internal%20Wiring&srTypeId=102006016&t=1700512646338&tabId=sr0.8053118438666289&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=MV-Internal%20Wiring&serviceInfoChar282=MV-Internal%20Wiring&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Chat-ADSL%20Follow%20up%20chat%20agent,Regarding%20ticket%20number%20.......,Problem%20solved%20after%20mv-internal%20wiring"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Box%20Problem&srTypeId=102006048&t=1698256028968&tabId=sr0.866647724232749&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Box%20Problem&serviceInfoChar282=Box%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Box"
                   >
-                    <b>Problem solved after mv-internal wiring</b>
+                    <b>Problem solved after Fixed from Box side</b>
                   </NavLink>
                 </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Solved%20By%20Exchange&srTypeId=102006006&t=1585337347080&tabId=sr0.9199307849925996&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Solved%20By%20Exchange&serviceInfoChar282=Solved%20By%20Exchange&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20By%20Exchange%20."
+                  >
+                    <b>Problem solved after Fixed from exchange</b>
+                  </NavLink>
+                </li>
+
                 <li>
                   <NavLink
                     className="dropdown-item"
@@ -437,15 +448,7 @@ const SRs = () => {
                     <b>Problem solved after change customer CPE</b>
                   </NavLink>
                 </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=cabin%20problem&srTypeId=102006053&t=1699275328330&tabId=sr0.3233332708718408&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Cabin%20Problem&serviceInfoChar282=Cabin%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Cabin%20"
-                  >
-                    <b>Problem solved after Fixed from cabin side</b>
-                  </NavLink>
-                </li>
+              
                 <li>
                   <NavLink
                     className="dropdown-item"
@@ -468,18 +471,18 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Line%20stable%20/no%20problem%20found&srTypeId=102006058&t=1699276290528&tabId=sr0.5227093097219959&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Line%20stable%20-no%20problem%20found&serviceInfoChar282=Line%20stable%20-no%20problem%20found&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Line%20stable%20-no%20problem%20found"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102006056&t=1701905571375&tabId=sr0.846930611500098&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
                   >
-                    <b>Line stable /no problem found</b>
+                    <b>External problem- cable maintenance needed</b>
                   </NavLink>
                 </li>
                 <li>
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102006056&t=1701905571375&tabId=sr0.846930611500098&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Line%20stable%20/no%20problem%20found&srTypeId=102006058&t=1699276290528&tabId=sr0.5227093097219959&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Line%20stable%20-no%20problem%20found&serviceInfoChar282=Line%20stable%20-no%20problem%20found&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Line%20stable%20-no%20problem%20found"
                   >
-                    <b>External problem- cable maintenance needed</b>
+                    <b>Line stable /no problem found</b>
                   </NavLink>
                 </li>
                 <li>
@@ -580,6 +583,15 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=MV-Internal%20Wiring&srTypeId=102005060&t=1704158572590&tabId=sr0.6351198959406723&topUrl=&custid=&BMEWebToken=&serviceInfoChar107=2&serviceInfoChar111=1&serviceTitle=MV-Internal%20Wiring&serviceInfoChar282=MV-Internal%20Wiring&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=CST%20has%20Voice%20Down%20MV%20Internal%20Wiring%20&subsNumber=FBB&"
+                  >
+                    <b>Problem solved after fix mv-internal wiring</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
                     to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Internal%20Wiring&srTypeId=102005003&t=1700518598719&tabId=sr0.028296412762489176&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Internal%20Wiring&serviceInfoChar282=Internal%20Wiring&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Chat-Adsl%20Follow%20up%20Chat%20Agent,Regarding%20Ticket%20number%20.....,Problem%20Solved%20after%20fix%20internal%20wiring"
                   >
                     <b>Problem solved after fix internal wiring</b>
@@ -598,36 +610,9 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Box%20Problem&srTypeId=102005044&t=1698256029090&tabId=sr0.4048315671087397&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Box%20Problem&serviceInfoChar282=Box%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Box"
-                  >
-                    <b>Problem solved after Fixed from Box side</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
                     to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=change%20external&srTypeId=102005050&t=1699275479909&tabId=sr0.14002415213419006&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Change%20External&serviceInfoChar282=Change%20External&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20by%20Change%20External"
                   >
                     <b>Problem solved after change external</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Internal%20Wiring&srTypeId=102005003&t=1700516415835&tabId=sr0.07308815040428429&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Internal%20Wiring&serviceInfoChar282=Internal%20Wiring&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20after%20fix%20internal%20wiring"
-                  >
-                    <b>Problem solved after fix internal wiring</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Other&srTypeId=102005007&t=1588105970620&tabId=sr0.8321069838970411&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Other&serviceInfoChar282=Other&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Ticket%20closed%20with%20close%20code%20xxxx"
-                  >
-                    <b>Problem solved after change new port</b>
                   </NavLink>
                 </li>
                 <li>
@@ -643,18 +628,28 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102005052&t=1701905571345&tabId=sr0.5832419214166648&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Box%20Problem&srTypeId=102005044&t=1698256029090&tabId=sr0.4048315671087397&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Box%20Problem&serviceInfoChar282=Box%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Box"
                   >
-                    <b>Problem solved after fix external wire</b>
+                    <b>Problem solved after Fixed from Box side</b>
+                  </NavLink>
+                </li>
+
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Other&srTypeId=102005007&t=1588105970620&tabId=sr0.8321069838970411&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Other&serviceInfoChar282=Other&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Ticket%20closed%20with%20close%20code%20xxxx"
+                  >
+                    <b>Problem solved after change new port</b>
                   </NavLink>
                 </li>
                 <li>
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Line%20stable%20/no%20problem%20found&srTypeId=102005054&t=1699276252801&tabId=sr0.4662481501413289&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Line%20stable%20-no%20problem%20found&serviceInfoChar282=Line%20stable%20-no%20problem%20found&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Line%20stable%20-no%20problem%20found"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102005052&t=1701905571345&tabId=sr0.5832419214166648&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
                   >
-                    <b>Line stable /no problem found</b>
+                    <b>Problem solved after fix external wire</b>
                   </NavLink>
                 </li>
 
@@ -676,7 +671,15 @@ const SRs = () => {
                     <b>External problem- cable maintenance needed</b>
                   </NavLink>
                 </li>
-
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Line%20stable%20/no%20problem%20found&srTypeId=102005054&t=1699276252801&tabId=sr0.4662481501413289&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Line%20stable%20-no%20problem%20found&serviceInfoChar282=Line%20stable%20-no%20problem%20found&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Line%20stable%20-no%20problem%20found"
+                  >
+                    <b>Line stable /no problem found</b>
+                  </NavLink>
+                </li>
                 <li>
                   <NavLink
                     className="dropdown-item"
@@ -824,18 +827,18 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=change%20internal&srTypeId=102014057&t=1699274916822&tabId=sr0.3711774512454311&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Change%20Internal&serviceInfoChar282=Change%20Internal&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20by%20Change%20Internal"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Internal%20Wiring&srTypeId=102014011&t=1700517277616&tabId=sr0.5274145482083581&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Internal%20Wiring&serviceInfoChar282=Internal%20Wiring&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Problem%20solved%20after%20fix%20internal%20wiring"
                   >
-                    <b>Problem solved after change internal</b>
+                    <b>Problem solved after fix internal wiring</b>
                   </NavLink>
                 </li>
                 <li>
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Box%20Problem&srTypeId=102014050&t=1698256029015&tabId=sr0.7904128233391243&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Box%20Problem&serviceInfoChar282=Box%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Box"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=change%20internal&srTypeId=102014057&t=1699274916822&tabId=sr0.3711774512454311&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Change%20Internal&serviceInfoChar282=Change%20Internal&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20by%20Change%20Internal"
                   >
-                    <b>Problem solved after Fixed from Box side</b>
+                    <b>Problem solved after change internal</b>
                   </NavLink>
                 </li>
                 <li>
@@ -851,18 +854,27 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Solved%20By%20Exchange&srTypeId=102014006&t=1585334138618&tabId=sr0.42279906682342394&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Solved%20By%20Exchange&serviceInfoChar282=Solved%20By%20Exchange&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20By%20Exchange%20."
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=cabin%20problem&srTypeId=102014055&t=1699275178503&tabId=sr0.17550081628351477&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Cabin%20Problem&serviceInfoChar282=Cabin%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Cabin%20"
                   >
-                    <b>Problem solved after Fixed from exchange</b>
+                    <b>Problem solved after Fixed from cabin side</b>
                   </NavLink>
                 </li>
                 <li>
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Internal%20Wiring&srTypeId=102014011&t=1700517277616&tabId=sr0.5274145482083581&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Internal%20Wiring&serviceInfoChar282=Internal%20Wiring&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Problem%20solved%20after%20fix%20internal%20wiring"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Box%20Problem&srTypeId=102014050&t=1698256029015&tabId=sr0.7904128233391243&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Box%20Problem&serviceInfoChar282=Box%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Box"
                   >
-                    <b>Problem solved after fix internal wiring</b>
+                    <b>Problem solved after Fixed from Box side</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Solved%20By%20Exchange&srTypeId=102014006&t=1585334138618&tabId=sr0.42279906682342394&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Solved%20By%20Exchange&serviceInfoChar282=Solved%20By%20Exchange&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20By%20Exchange%20."
+                  >
+                    <b>Problem solved after Fixed from exchange</b>
                   </NavLink>
                 </li>
                 <li>
@@ -887,9 +899,18 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=cabin%20problem&srTypeId=102014055&t=1699275178503&tabId=sr0.17550081628351477&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Cabin%20Problem&serviceInfoChar282=Cabin%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Cabin%20"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102014058&t=1701905571397&tabId=sr0.10284699954059806&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
                   >
-                    <b>Problem solved after Fixed from cabin side</b>
+                    <b>Problem solved after fix external wire</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Unavailable-%20customer%20request&srTypeId=102014062&t=1699276564692&tabId=sr0.6536623518923532&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Unavailable-%20customer%20request&serviceInfoChar282=Unavailable-%20customer%20request&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Unavailable-%20customer%20request"
+                  >
+                    <b>Customer not available - schedule in comment</b>
                   </NavLink>
                 </li>
                 <li>
@@ -898,7 +919,7 @@ const SRs = () => {
                     target="_blank"
                     to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102014058&t=1701905571397&tabId=sr0.10284699954059806&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
                   >
-                    <b>Problem solved after fix external wire</b>
+                    <b>External problem- cable maintenance needed</b>
                   </NavLink>
                 </li>
                 <li>
@@ -927,25 +948,6 @@ const SRs = () => {
                     to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Power%20Failure&srTypeId=102014007&t=1702686253083&tabId=sr0.2681590637108039&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Power%20Failure&serviceInfoChar282=Power%20Failure&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
                   >
                     <b>Power Failure</b>
-                  </NavLink>
-                </li>
-
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Unavailable-%20customer%20request&srTypeId=102014062&t=1699276564692&tabId=sr0.6536623518923532&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Unavailable-%20customer%20request&serviceInfoChar282=Unavailable-%20customer%20request&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Unavailable-%20customer%20request"
-                  >
-                    <b>Customer not available - schedule in comment</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102014058&t=1701905571397&tabId=sr0.10284699954059806&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
-                  >
-                    <b>External problem- cable maintenance needed</b>
                   </NavLink>
                 </li>
                 <li>
@@ -989,18 +991,18 @@ const SRs = () => {
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Other&srTypeId=102014018&t=1588105970937&tabId=sr0.22862598934686196&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Other&serviceInfoChar282=Other&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Ticket%20closed%20with%20close%20code%20xxxx"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=IU-Resplitted&srTypeId=102014066&t=1705841027035&tabId=sr0.8882407439659701&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=IU-Resplitted&serviceInfoChar282=IU-Resplitted&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent= "
                   >
-                    <b>Other</b>
+                    <b>IU-Resplitted</b>
                   </NavLink>
                 </li>
                 <li>
                   <NavLink
                     className="dropdown-item"
                     target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=IU-Resplitted&srTypeId=102014066&t=1705841027035&tabId=sr0.8882407439659701&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=IU-Resplitted&serviceInfoChar282=IU-Resplitted&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent= "
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Other&srTypeId=102014018&t=1588105970937&tabId=sr0.22862598934686196&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Other&serviceInfoChar282=Other&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Ticket%20closed%20with%20close%20code%20xxxx"
                   >
-                    <b>IU-Resplitted</b>
+                    <b>Other</b>
                   </NavLink>
                 </li>
               </ul>
@@ -1037,19 +1039,19 @@ const SRs = () => {
                 <li>
                   <NavLink
                     className="dropdown-item"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=cabin%20problem&srTypeId=102040062&t=1699275237665&tabId=sr0.25740052358643584&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Cabin%20Problem&serviceInfoChar282=Cabin%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Cabin%20"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=MV-Internal%20Wiring&srTypeId=102040009&t=1585339021022&tabId=sr0.09720781301757808&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=MV-Internal%20Wiring&serviceInfoChar282=MV-Internal%20Wiring&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=problem%20is%20%E2%80%8Bsolved%20after%20mv-internal%20wiring%20"
                     target="_blank"
                   >
-                    <b>Problem solved after Fixed from cabin side</b>
+                    <b>Problem solved after mv-internal wiring</b>
                   </NavLink>
                 </li>
                 <li>
                   <NavLink
                     className="dropdown-item"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=change%20external&srTypeId=102040063&t=1699275526766&tabId=sr0.44699965120492213&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Change%20External&serviceInfoChar282=Change%20External&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20by%20Change%20External"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Internal%20Wiring&srTypeId=102040013&t=1585339021275&tabId=sr0.8705499160584942&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Internal%20Wiring&serviceInfoChar282=Internal%20Wiring&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=problem%20is%20%E2%80%8Bsolved%20after%20internal%20wiring%20  "
                     target="_blank"
                   >
-                    <b>Problem solved after change external</b>
+                    <b>Problem solved after fix internal wiring</b>
                   </NavLink>
                 </li>
                 <li>
@@ -1064,28 +1066,19 @@ const SRs = () => {
                 <li>
                   <NavLink
                     className="dropdown-item"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102040065&t=1699275743168&tabId=sr0.8657979965006013&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20by%20fix%20External%20wire"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=change%20external&srTypeId=102040063&t=1699275526766&tabId=sr0.44699965120492213&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Change%20External&serviceInfoChar282=Change%20External&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20by%20Change%20External"
                     target="_blank"
                   >
-                    <b>Problem solved after fix External wire</b>
+                    <b>Problem solved after change external</b>
                   </NavLink>
                 </li>
                 <li>
                   <NavLink
                     className="dropdown-item"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Internal%20Wiring&srTypeId=102040013&t=1585339021275&tabId=sr0.8705499160584942&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Internal%20Wiring&serviceInfoChar282=Internal%20Wiring&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=problem%20is%20%E2%80%8Bsolved%20after%20internal%20wiring%20  "
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=cabin%20problem&srTypeId=102040062&t=1699275237665&tabId=sr0.25740052358643584&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Cabin%20Problem&serviceInfoChar282=Cabin%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Cabin%20"
                     target="_blank"
                   >
-                    <b>Problem solved after internal wiring</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=MV-Internal%20Wiring&srTypeId=102040009&t=1585339021022&tabId=sr0.09720781301757808&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=MV-Internal%20Wiring&serviceInfoChar282=MV-Internal%20Wiring&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=problem%20is%20%E2%80%8Bsolved%20after%20mv-internal%20wiring%20"
-                    target="_blank"
-                  >
-                    <b>Problem solved after mv-internal wiring</b>
+                    <b>Problem solved after Fixed from cabin side</b>
                   </NavLink>
                 </li>
                 <li>
@@ -1103,34 +1096,7 @@ const SRs = () => {
                     to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102040065&t=1699275743168&tabId=sr0.8657979965006013&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20by%20fix%20External%20wire"
                     target="_blank"
                   >
-                    <b>External problem- cable maintenance needed</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Installation%20Issue&srTypeId=102040066&t=1699275949332&tabId=sr0.37056070623995696&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Installation%20Issue&serviceInfoChar282=Installation%20Issue&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Installation%20Issue"
-                    target="_blank"
-                  >
-                    <b>Installation Issue</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Line%20stable%20/no%20problem%20found&srTypeId=102040067&t=1699276167639&tabId=sr0.09558127740211098&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Line%20stable%20-no%20problem%20found&serviceInfoChar282=Line%20stable%20-no%20problem%20found&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Line%20stable%20-no%20problem%20found"
-                    target="_blank"
-                  >
-                    <b>Line stable /no problem found</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Stalagmite%20problem&srTypeId=102040068&t=1699276416737&tabId=sr0.9558115667575089&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Stalagmite%20problem&serviceInfoChar282=Stalagmite%20problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Stalagmite%20problem"
-                    target="_blank"
-                  >
-                    <b>Stalagmite problem</b>
+                    <b>Problem solved after fix External wire</b>
                   </NavLink>
                 </li>
                 <li>
@@ -1145,13 +1111,39 @@ const SRs = () => {
                 <li>
                   <NavLink
                     className="dropdown-item"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Other&srTypeId=102040020&t=1588105971094&tabId=sr0.07904684755644054&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Other&serviceInfoChar282=Other&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Ticket%20closed%20with%20close%20code%20xxxx"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102040065&t=1699275743168&tabId=sr0.8657979965006013&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20by%20fix%20External%20wire"
                     target="_blank"
                   >
-                    <b>Other</b>
+                    <b>External problem- cable maintenance needed</b>
                   </NavLink>
                 </li>
-
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Line%20stable%20/no%20problem%20found&srTypeId=102040067&t=1699276167639&tabId=sr0.09558127740211098&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Line%20stable%20-no%20problem%20found&serviceInfoChar282=Line%20stable%20-no%20problem%20found&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Line%20stable%20-no%20problem%20found"
+                    target="_blank"
+                  >
+                    <b>Line stable /no problem found</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Installation%20Issue&srTypeId=102040066&t=1699275949332&tabId=sr0.37056070623995696&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Installation%20Issue&serviceInfoChar282=Installation%20Issue&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Installation%20Issue"
+                    target="_blank"
+                  >
+                    <b>Installation Issue</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Stalagmite%20problem&srTypeId=102040068&t=1699276416737&tabId=sr0.9558115667575089&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Stalagmite%20problem&serviceInfoChar282=Stalagmite%20problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Stalagmite%20problem"
+                    target="_blank"
+                  >
+                    <b>Stalagmite problem</b>
+                  </NavLink>
+                </li>
                 <li>
                   <NavLink
                     className="dropdown-item"
@@ -1177,6 +1169,15 @@ const SRs = () => {
                     target="_blank"
                   >
                     <b>IU-Resplitted</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Other&srTypeId=102040020&t=1588105971094&tabId=sr0.07904684755644054&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Other&serviceInfoChar282=Other&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Ticket%20closed%20with%20close%20code%20xxxx"
+                    target="_blank"
+                  >
+                    <b>Other</b>
                   </NavLink>
                 </li>
               </ul>
@@ -1219,16 +1220,6 @@ const SRs = () => {
                     <b>Problem solved after change internal</b>
                   </NavLink>
                 </li>
-
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Box%20Problem&srTypeId=102001036&t=1698256029173&tabId=sr0.8502966385842947&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Box%20Problem&serviceInfoChar282=Box%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Box"
-                  >
-                    <b>Problem solved after Fixed from Box side</b>
-                  </NavLink>
-                </li>
                 <li>
                   <NavLink
                     className="dropdown-item"
@@ -1238,6 +1229,25 @@ const SRs = () => {
                     <b>Problem solved after change external</b>
                   </NavLink>
                 </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=cabin%20problem&srTypeId=102001040&t=1699275103009&tabId=sr0.4733219954586654&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Cabin%20Problem&serviceInfoChar282=Cabin%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Cabin%20"
+                  >
+                    <b>Problem solved after Fixed from cabin side</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Box%20Problem&srTypeId=102001036&t=1698256029173&tabId=sr0.8502966385842947&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Box%20Problem&serviceInfoChar282=Box%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Box"
+                  >
+                    <b>Problem solved after Fixed from Box side</b>
+                  </NavLink>
+                </li>
+                
                 <li>
                   <NavLink
                     className="dropdown-item"
@@ -1256,15 +1266,7 @@ const SRs = () => {
                     <b>Problem solved after change customer CPE</b>
                   </NavLink>
                 </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=cabin%20problem&srTypeId=102001040&t=1699275103009&tabId=sr0.4733219954586654&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Cabin%20Problem&serviceInfoChar282=Cabin%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Solved%20from%20Cabin%20"
-                  >
-                    <b>Problem solved after Fixed from cabin side</b>
-                  </NavLink>
-                </li>
+                
                 <li>
                   <NavLink
                     className="dropdown-item"
@@ -1272,15 +1274,6 @@ const SRs = () => {
                     to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=External%20wire&srTypeId=102001043&t=1701905571312&tabId=sr0.9986476612244969&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=External%20wire&serviceInfoChar282=External%20wire&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent="
                   >
                     <b>Problem solved after fix external wire</b>
-                  </NavLink>
-                </li>
-                <li>
-                  <NavLink
-                    className="dropdown-item"
-                    target="_blank"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Line%20stable%20/no%20problem%20found&srTypeId=102001045&t=1699276084446&tabId=sr0.03220162203834276&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Line%20stable%20-no%20problem%20found&serviceInfoChar282=Line%20stable%20-no%20problem%20found&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Line%20stable%20-no%20problem%20found"
-                  >
-                    <b>Line stable /no problem found</b>
                   </NavLink>
                 </li>
                 <li>
@@ -1299,6 +1292,15 @@ const SRs = () => {
                     to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Other&srTypeId=102001005&t=1588105970481&tabId=sr0.8150058301507606&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Other&serviceInfoChar282=Other&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Ticket%20closed%20with%20close%20code%20xxxx"
                   >
                     <b>External problem- cable maintenance needed</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Line%20stable%20/no%20problem%20found&srTypeId=102001045&t=1699276084446&tabId=sr0.03220162203834276&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Line%20stable%20-no%20problem%20found&serviceInfoChar282=Line%20stable%20-no%20problem%20found&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Line%20stable%20-no%20problem%20found"
+                  >
+                    <b>Line stable /no problem found</b>
                   </NavLink>
                 </li>
                 <li>
