@@ -959,7 +959,15 @@ const SRs = () => {
                     <b>CPE customer problem</b>
                   </NavLink>
                 </li>
-
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Optimization%20Period&srTypeId=102014027&t=1607372911425&tabId=sr0.2635833067279252&topUrl=&custid=&&BMEWebToken=&serviceTitle=%20Optimization%20Period&serviceInfoChar282=%20Optimization%20Period&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=CST%20has%20Physical%20Optimization%20Period%20handled&subsNumber=FBB"
+                  >
+                    <b>Optimization Period</b>
+                  </NavLink>
+                </li>
                 <li>
                   <NavLink
                     className="dropdown-item"
@@ -1138,10 +1146,19 @@ const SRs = () => {
                 <li>
                   <NavLink
                     className="dropdown-item"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Stalagmite%20problem&srTypeId=102040068&t=1699276416737&tabId=sr0.9558115667575089&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Stalagmite%20problem&serviceInfoChar282=Stalagmite%20problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Stalagmite%20problem"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=CPE%20Problem&srTypeId=102040017&t=1585339021522&tabId=sr0.48114533086180744&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=CPE%20Problem&serviceInfoChar282=CPE%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=CPE%20Problem"
                     target="_blank"
                   >
-                    <b>Stalagmite problem</b>
+                    <b>CPE customer problem</b>
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    target="_blank"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Optimization%20Period&srTypeId=102040029&t=1607371612291&tabId=sr0.9924651471950394&topUrl=&custid=&&BMEWebToken=&serviceTitle=%20Optimization%20Period&serviceInfoChar282=%20Optimization%20Period&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=CST%20has%20BLQ%20Optimization%20Period%20handled&subsNumber=FBB"
+                  >
+                    <b>Optimization Period</b>
                   </NavLink>
                 </li>
                 <li>
@@ -1156,10 +1173,10 @@ const SRs = () => {
                 <li>
                   <NavLink
                     className="dropdown-item"
-                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=CPE%20Problem&srTypeId=102040017&t=1585339021522&tabId=sr0.48114533086180744&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=CPE%20Problem&serviceInfoChar282=CPE%20Problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=CPE%20Problem"
+                    to="https://bss.te.eg:12900/csp/sr/business.action?BMEBusiness=srNewSrPage&srTypeName=Stalagmite%20problem&srTypeId=102040068&t=1699276416737&tabId=sr0.9558115667575089&topUrl=&custid=&serviceInfoChar107=2&serviceInfoChar111=1&subsNumber=FBB&BMEWebToken=&serviceTitle=Stalagmite%20problem&serviceInfoChar282=Stalagmite%20problem&serviceInfoChar276=1&serviceInfoChar278=1&serviceInfoChar272=0&serviceContent=Stalagmite%20problem"
                     target="_blank"
                   >
-                    <b>CPE customer problem</b>
+                    <b>Stalagmite problem</b>
                   </NavLink>
                 </li>
                 <li>

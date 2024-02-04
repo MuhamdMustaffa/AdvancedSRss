@@ -1,0 +1,23 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: rgb(242, 242, 242);
+}
+.general-manager {
+  background-color: #21bb70; /* تظليل الصفوف التي تحتوي على "مدير عام" باللون الأخضر */
+}
+.department-head {
+  background-color: #a32525; /* تظليل الصفوف التي تحتوي على "رئيس قطاع" باللون الأحمر */
+}
+.copy-button {
+  margin-left: 5px;
+  padding: 3px 8px;
+  cursor: pointer;
+}

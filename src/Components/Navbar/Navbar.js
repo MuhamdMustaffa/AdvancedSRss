@@ -57,8 +57,13 @@ const Navbar = () => {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link Active" to="/Compensation">
+                <NavLink className="nav-link active" to="/Compensation">
                   Concession
+                </NavLink>
+              </li>
+              <li className="nav-item">
+                <NavLink className="nav-link active" to="/Excel">
+                  Exchange Mail
                 </NavLink>
               </li>
             </ul>

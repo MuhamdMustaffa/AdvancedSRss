@@ -11,6 +11,7 @@ import SRs from './Pages/SRs/SRs';
 import Notes from './Pages/Notes/Notes';
 import CPEs from './Pages/CPEs/CPEs';
 import Compensation from './Pages/Compensation/Compensation';
+import Excel from './Pages/Excel/Excel';
 
 function App() {
   const { darkMode } = useContext(ThemeContext);
@@ -36,6 +37,7 @@ function App() {
           <Route exact path="/Tools" element={<Tools />} />
           <Route exact path="/CPEs" element={<CPEs />} />
           <Route exact path="/Compensation" element={<Compensation />} />
+          <Route exact path="/Excel" element={<Excel />} />
         </Routes>
       </div>
     </Router>
